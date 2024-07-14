@@ -2,7 +2,7 @@
 
 
 ## Visão Geral
-* O conversor é uma aplicação que realiza a conversão valores entre diferentes moedas
+* O programa é uma aplicação que realiza a conversão de valores entre diferentes moedas
 utilizando uma API de taxa de câmbio. O programa deve solicitar ao usuário a moeda de origem, a moeda de destino e o valor a ser convertido, 
 e então exibir o resultado da conversão.
 
@@ -11,8 +11,8 @@ e então exibir o resultado da conversão.
 * Conversão de valores de Real para Dolar, Real para Yuan da China e Real para Peso Mexicano e vice versa.
 * Sistema com acesso pelo terminal/console. 
 * Utiliza uma API para obter a taxa de conversão entre as duas moedas.
-* Calcula o valor convertido com base na taxa de conversão obtida.
-* Exibir o valor convertido, a moeda de origem, a moeda de destino e a taxa de conversão utilizada
+* Calcula o valor convertido com base na taxa de conversão obtida atualizada.
+* Exibe o valor convertido, a moeda de origem, a moeda de destino.
     
 ## Tecnologias
 
